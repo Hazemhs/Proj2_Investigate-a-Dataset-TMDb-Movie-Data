@@ -1,4 +1,4 @@
-# Proj2_Investigate-a-Dataset-TMDb-Movie-Data
+# Investigate a Dataset (TMDb Movie Data)
 
 ## Project Overview
 In this project, we have to analyze a dataset and communicate findings.
